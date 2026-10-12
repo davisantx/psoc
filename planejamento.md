@@ -4,9 +4,9 @@
 
 1. **Documentar todas as etapas em todos os aspectos possíveis**. 
 
-1.1. Porquê?
+  - Porquê?
 
-1.1.1. **Para possibilitar o relatório final e, possivelmente, o artigo**.
+    - **Para possibilitar o relatório final e, possivelmente, o artigo**.
 
 ## Etapas
 
@@ -23,9 +23,6 @@
 Consiste em buscar, coletar e selecionar trechos possivelmente relevantes para o contexto do projeto.
 
 Pense em algo como uma extensão da sessão de fundamentação redigida no documento de especificação.
-
-
-
 
 - Início: 04/10
 - Fim: 11/10

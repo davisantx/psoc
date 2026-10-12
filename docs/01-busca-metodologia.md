@@ -1,4 +1,4 @@
-## 01. Busca de uma metodologia coerente para a organização do processo de Software
+## 01 - Busca de uma metodologia coerente para a organização do processo de Software
 
 ---
 Modelo: Claude Sonnet 5.5

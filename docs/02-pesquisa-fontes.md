@@ -59,3 +59,33 @@ Ao final da oficina, deixe algo tátil ou de fácil acesso. Você pode resumir o
 2. Tem link? Verifique a fonte e o endereço.
 3. É uma imagem? Faça a busca reversa.
 4. É sobre alguém? Coloque-se no lugar antes de repassar.
+
+### 14:35:
+
+**Prompt:**
+
+Procure fontes que contenham exemplos de caso reais de fake news/desinformação.
+
+Faça uma busca profunda na Web.
+
+**Resposta:**
+
+Aqui estão exemplos reais de campanhas de desinformação no Brasil, divididos por categorias, seguidos dos melhores repositórios para você pesquisar estudos de caso detalhados.
+
+## Exemplos de Casos Reais Recentes e Históricos
+
+* **Tragédias e Crises (Enchentes no RS, 2024):** Em meio ao desastre ambiental, a desinformação dificultou gravemente os resgates. Circulou massivamente que caminhões com donativos estavam sendo barrados nas estradas por falta de pagamento de impostos (o que o governo estadual desmentiu, garantindo passe livre para doações). Outro boato viral dizia que a cantora Madonna havia doado R$ 10 milhões aos desabrigados, o que nunca foi confirmado ou efetivado.
+* **Deepfakes e Fraude Eleitoral:** Na corrida eleitoral, áudios e vídeos são frequentemente gerados por Inteligência Artificial para minar candidatos ou semear dúvidas sobre as urnas. Um vídeo manipulado mostrou falsamente um candidato anunciando cortes no 13º salário, aposentadorias e no programa Pé-de-Meia. Outra tática comum é simular a aparência de telejornais e clonar vozes de jornalistas no TikTok para divulgar pesquisas eleitorais totalmente inexistentes.
+* **Pânico Moral Institucional:** Mentiras clássicas como a distribuição de "mamadeiras eróticas" (cujas imagens foram tiradas de sex shops e nunca distribuídas por governos) e o "kit gay" (o projeto Escola sem Homofobia, de 2011, que combatia preconceito e foi suspenso antes de distribuído) foram peças-chave para mudar o rumo do debate público nas eleições, usando o medo para engajar e manipular eleitores.
+* **Golpes Financeiros (Impostores):** Grupos maliciosos forjam ser portais de notícias reais (como UOL ou G1) publicando falsas reportagens sobre supostas brigas entre autoridades do Banco Central e economistas. O objetivo do clique, no entanto, é redirecionar a vítima para um falso aplicativo de investimentos com promessa de lucro rápido, configurando um crime de estelionato.
+
+## Fontes Confiáveis para Busca de Estudos de Caso
+
+Se você precisa de materiais que mostrem o "passo a passo" de como essas redes fraudulentas foram descobertas e desmentidas, pesquise nestes portais:
+
+1. **Projeto Comprova:** Uma coalizão de dezenas de veículos de jornalismo brasileiro focada em investigar conteúdos suspeitos nas redes sociais. É o melhor repositório para ver *como* uma checagem é feita na prática, pois eles publicam a metodologia aberta, os contatos realizados e as perícias aplicadas em cada áudio, vídeo ou texto viral.
+2. **Agência Lupa:** Pioneira em *fact-checking* no Brasil. Possui a seção "Lupa Investiga", onde publicam levantamentos densos sobre ecossistemas de desinformação online, perfis inautênticos que vendem "dietas falsas" ou promovem discursos de ódio, além de monitorar e identificar peças manipuladas por IA durante o período eleitoral.
+3. **Aos Fatos:** Além da checagem diária, eles desenvolvem ferramentas tecnológicas importantes. O sistema "Radar Aos Fatos" mapeia as tendências de desinformação em aplicativos de mensagens e redes abertas, gerando relatórios que são fundamentais para o embasamento de pesquisas acadêmicas.
+
+[Como funciona a checagem do Projeto Comprova na internet](https://www.youtube.com/watch?v=-4582krYCFE)
+Este vídeo ilustra detalhadamente como a coalizão de jornalistas monitora conteúdos falsos e explica os métodos de investigação usados para frear a disseminação de narrativas manipuladas nas redes.

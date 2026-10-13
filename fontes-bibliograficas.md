@@ -5,9 +5,9 @@ Lista de possíveis fontes que podem ser utilizadas para a definição da metodo
 ## Checagem de fatos e fake-news:
 
 ---
-Agência Lupa: Verifica notícias atuais e boatos (especialmente no âmbito político)
-Projeto Comprova: Esclarece tópicos da atualidade com a finalidade de informar com informações acuradas (atualmente, está muito no âmbito político).
-Aos Fatos: Dinâmica semelhante aos demais (muito focado em política)
+Agência Lupa: Verifica notícias atuais e boatos - especialmente no âmbito político
+Projeto Comprova: Esclarece tópicos da atualidade com a finalidade de informar com informações acuradas - atualmente, está muito no âmbito político.
+Aos Fatos: Dinâmica semelhante aos demais - muito focado em política.
 ---
 
 - [Agência Lupa (Site)](https://www.agencialupa.org/)

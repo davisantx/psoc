@@ -5,9 +5,9 @@ Lista de possíveis fontes que podem ser utilizadas para a definição da metodo
 ## Checagem de fatos e fake-news:
 
 ---
-Agência Lupa: Verifica notícias atuais e boatos - especialmente no âmbito político
-Projeto Comprova: Esclarece tópicos da atualidade com a finalidade de informar com informações acuradas - atualmente, está muito no âmbito político.
-Aos Fatos: Dinâmica semelhante aos demais - muito focado em política.
+Agência Lupa: Verifica notícias atuais e boatos
+Projeto Comprova: Esclarece tópicos da atualidade com a finalidade de informar com informações acuradas
+Aos Fatos: Dinâmica semelhante aos demais
 ---
 
 - [Agência Lupa (Site)](https://www.agencialupa.org/)
@@ -24,7 +24,7 @@ Mais informações sobre:
 ## Fake-news em tragédias e crises
 
 ---
-Enchente no Rio Grande do Sul (2024): No meio da catastrofe, houve uma disseminação intensa de notícias falsas.
+Enchente no Rio Grande do Sul em 2024: No meio da catastrofe, houve uma disseminação intensa de notícias falsas
 ---
 
 Coisas a mais para procurar:
